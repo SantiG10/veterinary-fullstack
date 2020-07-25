@@ -2,43 +2,43 @@ module.exports = {
   mascotas: [{
       tipo: "Perro",
       nombre: "Trosqui",
-      dueno: "Santiago"
+      dueno: "Santiago Giraldo"
     },
     {
       tipo: "Perro",
       nombre: "Max",
-      dueno: "Jorge"
+      dueno: "Jenniffer Marin"
     },
     {
       tipo: "Gato",
       nombre: "Dulce",
-      dueno: "Luciana"
+      dueno: "Juan Zapata"
     },
     {
       tipo: "Gato",
       nombre: "Cuba",
-      dueno: "Laura"
+      dueno: "Sandra Cuba"
     }
   ],
   veterinarias: [{
       nombre: "Salud Perros",
-      direccion: "Cll 4 F",
+      direccion: "Cll 4 F # 78",
       telefono: "1234567890"
     },
     {
       nombre: "Salud Gatos",
-      direccion: "Cll 4 F",
-      telefono: "1234567890"
+      direccion: "Cll 8A # 89",
+      telefono: "5343455343"
     },
     {
-      nombre: "Salud Gatos",
-      direccion: "Cll 4 F",
-      telefono: "1234567890"
+      nombre: "Salud Loros",
+      direccion: "Cll 3C # 76",
+      telefono: "566232355"
     },
     {
-      nombre: "Salud Perrino",
-      direccion: "Cll 4 F",
-      telefono: "1234567890"
+      nombre: "Salud Lagartos",
+      direccion: "Cll 8D # 98",
+      telefono: "7643434234"
     }
   ],
   duenos: [{
